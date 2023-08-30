@@ -15,3 +15,6 @@
     - *Gestión de proyectos*← La aplicación de conocimientos, habilidades, herramientas y técnicas a las actividades del proyecto para cumplir con los requisitos del proyecto.
     - *Metodología de gestión de proyectos*← Un conjunto de principios y procesos orientadores para gestionar un proyecto a lo largo de su ciclo de vida.
     - *Gerente de proyecto*← Individuo que guía los proyectos desde el inicio hasta la finalización y sirve como guía para su equipo, utilizando sus habilidades organizativas e interpersonales en cada paso del camino
+
+Fuente: 
+Course 1 Glossary | PM Terms and Definitions - Documentos de Google. (2020). Google.com. https://docs.google.com/document/d/100bNgK8Ly_30OjVzjRPkxBNle-zF92YtclgXCg_doGU/template/preview
